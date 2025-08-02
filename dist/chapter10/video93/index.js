@@ -1,5 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 console.log("video 93");
 // union
 let username = "hoidanit@gmail.com"; // mail
@@ -11,3 +9,4 @@ const printUsername = (username) => {
     }
 };
 printUsername("trannhattan");
+export {};

@@ -1,5 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 console.log("video 90");
 function test(name) { }
 let name = "eric";
@@ -11,3 +9,4 @@ if (typeof name === "string") {
 }
 let name2 = "eric";
 name2.toUpperCase();
+export {};

@@ -1,5 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 console.log("video 99");
 let name = null;
 name = "hoidanit";
@@ -12,3 +10,4 @@ const printName = (myName) => {
     myName.toLocaleUpperCase();
     console.log("name", myName);
 };
+export {};

@@ -1,5 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 console.log("video 91");
 //annotation: @Controller @Service // comment
 // infer: tự động đoán type cho ta
@@ -10,3 +8,4 @@ let username = "hoidanit";
 const score = [1, 3, 4];
 const demo = "rec"; // hạn chế tối đa any
 const demo1 = "bla bla";
+export {};
